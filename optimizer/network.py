@@ -1,10 +1,10 @@
 from langgraph.graph import StateGraph, START, END
-from ..agents.repair import create_llm_condense_repair_agent
-from ..agents.diversity import create_llm_diversity_agent
-from ..utils.NSGA_related import nsga2_survival, nsga2_tournament_selection
-from ..utils.population_summary import summarize_population
-from ..utils.NSGA_related import apply_strategy_rank_based
-from ..utils.CALPHAD_related import batch_objective_eval
+from agents.repair import create_llm_condense_repair_agent
+from agents.diversity import create_llm_diversity_agent
+from utils.NSGA_related import nsga2_survival, nsga2_tournament_selection
+from utils.NSGA_related import summarize_population
+from utils.NSGA_related import apply_strategy_rank_based
+from utils.CALPHAD_related import batch_objective_eval
 import numpy as np
 
 def condense_repair_agent_node(state):
@@ -133,8 +133,6 @@ def build_ea_langgraph_merged():
 
     workflow.add_edge(START, "CondenseRepair")
     workflow.add_edge("CondenseRepair", "ApplyStrategy")
-    # workflow.add_edge("PrepForDebate", "AgenticDebate")
-    # workflow.add_edge("AgenticDebate", "ApplyStrategy")
     workflow.add_edge("ApplyStrategy", "EvalAndSurvivor")
     workflow.add_conditional_edges("EvalAndSurvivor", next_step_after_eval, {
         "END": END,

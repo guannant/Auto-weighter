@@ -93,17 +93,6 @@ def summarize_population(all_param_pool, all_objectives, n_pca_components=5):
     pca.fit(all_param_pool)
     pca_loadings = pca.components_   # (n_pca, D_param)
     explained_variance = pca.explained_variance_ratio_  # (n_pca,)
-
-    # 4. Summary statistics (mean, std, min, max)
-    # param_mean = np.mean(all_param_pool, axis=0)
-    # param_std = np.std(all_param_pool, axis=0)
-    # param_min = np.min(all_param_pool, axis=0)
-    # param_max = np.max(all_param_pool, axis=0)
-    # obj_mean = np.mean(all_objectives, axis=0)
-    # obj_std = np.std(all_objectives, axis=0)
-    # obj_min = np.min(all_objectives, axis=0)
-    # obj_max = np.max(all_objectives, axis=0)
-
     summary = {
         "param_param_corr": param_param_corr,
         "param_obj_corr": param_obj_corr,

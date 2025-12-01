@@ -1,9 +1,9 @@
 import json
 import numpy as np
-from ..utils.NSGA_related import get_pareto_front_indices, initialize_gaussian_pool, select_parent_indices, get_operator_menu, get_bounds_and_constraints, get_index_mapping_note
-from ..utils.CALPHAD_related import batch_objective_eval
-from ..agents.chatbox import openai_chat_completion  
-from network import build_ea_langgraph_merged
+from utils.NSGA_related import get_pareto_front_indices, initialize_gaussian_pool, select_parent_indices, get_operator_menu, get_bounds_and_constraints, get_index_mapping_note
+from utils.CALPHAD_related import batch_objective_eval
+from agents.chatbox import openai_chat_completion  
+from optimizer.network import build_ea_langgraph_merged
 
 def run_optimization(
     n_var: int = 22,

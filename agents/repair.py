@@ -1,6 +1,6 @@
 import numpy as np
 import ast
-from Auto_weighter.utils.NSGA_related import get_pareto_front_indices
+from utils.NSGA_related import get_pareto_front_indices
 
 
 def create_llm_condense_repair_agent(llm, max_retries=10):
