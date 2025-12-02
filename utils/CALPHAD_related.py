@@ -5,11 +5,11 @@ import yaml
 import subprocess
 from collections import defaultdict
 import numpy as np
-from espei.database import Database, load_datasets
-from espei.data_generator import DataGenerator
-from espei.utils import recursive_glob, unpack_piecewise
-from espei.parameter_selection import database_symbols_to_fit
 
+from pycalphad import Database
+from espei.datasets import load_datasets, recursive_glob
+from espei.utils import unpack_piecewise, database_symbols_to_fit
+from espei.optimizers.opt_generate_samples import DataGenerator
 
 
 def group_by_comps(input_dict):
@@ -87,6 +87,7 @@ title ={
     "(FCC_A1,LIQUID)": 12.411224504756625,
     "(FCC_A1)": 197.27386015759902
 }
+
 def process_output(out):
     zpf_errors = [] # by each dataset
     for item in out[1]:
@@ -95,17 +96,12 @@ def process_output(out):
     thermoc_val = plot_bar_dict(out[0])
     merged_dict = {**thermoc_val,**zpf_value}
     ordered_keys = list(title.keys())
-    # catA_keys = ordered_keys[:10]
-    # catB_keys = ordered_keys[10:]
-    # catA_error = {k: merged_dict[k] for k in catA_keys}
-    # catB_error = {k: merged_dict[k] for k in catB_keys}
-    # ordered_dict = {k: merged_dict[k] for k in ordered_keys}
     ordered_out = [merged_dict[k] for k in ordered_keys]
     return  ordered_out
 
-phase_models_path = open('ESPEI_run_file/phase_models.json')
-dataset_path = 'ESPEI_run_file/input-data_entropyIncl'
-tdb_initial_path = 'ESPEI_run_file/Cu-Mg-generated.tdb'
+phase_models_path = open('examples/CALPHAD/phase_models.json')
+dataset_path = 'examples/CALPHAD/input-data_entropyIncl'
+tdb_initial_path = 'examples/CALPHAD/Cu-Mg-generated.tdb'
 phase_models = json.load(phase_models_path)
 dbf = Database(tdb_initial_path)
 datasets = load_datasets(sorted(recursive_glob(dataset_path, '*.json')))
@@ -119,11 +115,12 @@ def eval_output(tbd_file_path):
     return process_output(output)
 def objective_fn(params: np.ndarray, iteration: int, post_fix: int) -> list:
 
-    yaml_path = "ESPEI_run_file/run_mcmc.yaml"
-    output_folder = "ESPEI_run_file"
+    yaml_path = "examples/CALPHAD/run_mcmc.yaml"
+    output_folder = "examples/CALPHAD/out"
+    output_folder_base = "examples/CALPHAD"
     param_names = list(title.keys())
     params_dict = dict(zip(param_names, params))
-    weights_path = os.path.join(output_folder, "Pytorch_MLP_CV", "weights.json")
+    weights_path = os.path.join(output_folder_base, "Pytorch_MLP_CV", "weights.json")
     os.makedirs(os.path.dirname(weights_path), exist_ok=True)  # Ensure subdir exists
     with open(weights_path, "w") as wf:
         json.dump(params_dict, wf, indent=4)

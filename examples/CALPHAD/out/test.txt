@@ -1,0 +1,1055 @@
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 6400 iterations.
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 6400 iterations.
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.10 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_0_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_0_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_1_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_1_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.31 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_2_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_2_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251201
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_3_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_3_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.31 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_4_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_4_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_5_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_5_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_6_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_6_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_7_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_7_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_8_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_8_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_9_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_9_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_10_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_10_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_11_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_11_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_12_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_12_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_13_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_13_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_14_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_14_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_15_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_15_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.10 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_16_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_16_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_17_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_17_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_18_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_18_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.32 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_0_19_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_0_19_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_0_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_0_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_1_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_1_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_2_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_2_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_3_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_3_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.10 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_4_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_4_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_5_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_5_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_6_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_6_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.32 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_7_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_7_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.29 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_8_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_8_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.29 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_1_9_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_1_9_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_0_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_0_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_1_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_1_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.11 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_2_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_2_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_3_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_3_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.10 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_4_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_4_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.
+INFO:espei.optimizers.opt_mcmc - MCMC complete.
+TRACE:espei.optimizers.opt_mcmc - Writing trace to examples/CALPHAD/out/LLM_agent_2_5_trace.npy
+TRACE:espei.optimizers.opt_mcmc - Writing lnprob to examples/CALPHAD/out/LLM_agent_2_5_lnprob.npy
+TRACE:espei.optimizers.opt_mcmc - Initial parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+TRACE:espei.optimizers.opt_mcmc - Optimal parameters: [ 8.69113475e+00 -3.25370707e+04 -2.25556642e+00  5.13738835e+02  3.08796367e+00 -1.52755041e+04 -2.00969191e+04  1.83913574e+04 -4.21231350e+00  2.60562250e+04  1.25206832e+00 -3.54376346e+04  1.10505395e+00  1.15710513e+05 -3.59142374e+00  1.74077450e+04  4.03767444e+03  3.48663631e+04  5.64588702e+00 -1.40289924e+04  4.91403721e+00 -3.44200831e+04]
+TRACE:espei.optimizers.opt_mcmc - Change in parameters: [ 3.41580701e-01 -7.46572650e-05 -1.77943657e-01  9.37625046e-01  3.68767596e-01 -4.09202100e-02 -1.77744172e-01  8.72594285e-02 -7.28255370e-01  4.39651075e-01  9.20351888e-01 -1.04913589e-01 -1.03182851e+00  1.10892025e-01 -4.86866161e-01  1.71059763e-01  7.72806975e-01  6.41542518e-01  1.05640528e-01 -6.08731629e-01  5.70007769e-01 -5.08656413e-04]
+INFO:espei.espei_script - espei version       0.1.dev1+g219d0df.d20251202
+INFO:espei.espei_script - pycalphad version   0.11.0
+INFO:espei.espei_script - dask version        2025.5.1
+INFO:espei.espei_script - distributed version 2025.5.1
+INFO:espei.espei_script - symengine version   0.14.1
+INFO:espei.espei_script - emcee version       3.1.6
+INFO:espei.espei_script - If you use ESPEI for work presented in a publication, we ask that you cite the following paper:
+    B. Bocklund, R. Otis, A. Egorov, A. Obaied, I. Roslyakova, Z.-K. Liu, ESPEI for efficient thermodynamic database development, modification, and uncertainty quantification: application to Cu-Mg, MRS Commun. (2019) 1-10. doi:10.1557/mrc.2019.59.
+TRACE:espei.espei_script - Loading and checking datasets.
+TRACE:espei.espei_script - Finished checking datasets
+INFO:espei.espei_script - Not using a parallel scheduler. ESPEI is running MCMC on a single core.
+INFO:espei.error_functions.context - Fitting 22 degrees of freedom.
+TRACE:espei.error_functions.context - Getting residual object for FixedConfigurationPropertyResidual
+TRACE:espei.error_functions.context - Finished getting residual object for FixedConfigurationPropertyResidual in 0.09 s
+TRACE:espei.error_functions.context - Getting residual object for ZPFResidual
+TRACE:espei.error_functions.context - Finished getting residual object for ZPFResidual in 0.30 s
+INFO:espei.optimizers.opt_mcmc - Initializing a normal prior for the parameters.
+TRACE:espei.optimizers.opt_mcmc - Initial active parameters: [ 1.32000e+01 -3.25395e+04 -2.74381e+00  8.23630e+03  4.89196e+00 -1.46750e+04 -2.44412e+04  2.01496e+04 -1.55010e+01  4.65000e+04  1.57200e+01 -3.95913e+04 -3.47190e+01  1.04160e+05 -6.99900e+00  2.10000e+04  1.77720e+04  2.12400e+04  5.10644e+00 -8.72053e+03  1.14282e+01 -3.44376e+04]
+INFO:espei.optimizers.opt_mcmc - Initializing 88 chains with 4 chains per parameter.
+INFO:espei.optimizers.opt_mcmc - Using a deterministic ensemble sampler.
+INFO:espei.optimizers.opt_mcmc - Running MCMC for 800 iterations.

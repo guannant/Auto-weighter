@@ -1,0 +1,30 @@
+mcmc:
+  LHS_points: 4500
+  chain_std_deviation: 0.1
+  chains_per_parameter: 4
+  input_db: examples/CALPHAD/Cu-Mg-generated.tdb
+  iterations: 800
+  prior:
+    loc_relative: 1.0
+    name: normal
+    scale_relative: 1.0
+  save_interval: 100
+  scheduler: null
+output:
+  logfile: examples/CALPHAD/out/test.txt
+  output_db: examples/CALPHAD/out/LLM_agent_2_6.tdb
+  probfile: examples/CALPHAD/out/LLM_agent_2_6_lnprob.npy
+  tracefile: examples/CALPHAD/out/LLM_agent_2_6_trace.npy
+  verbosity: 2
+system:
+  datasets: examples/CALPHAD/input-data_entropyIncl
+  phase_models: examples/CALPHAD/phase_models.json
+  tags:
+    dft:
+      excluded_model_contributions:
+      - idmix
+      - mag
+    estimated-entropy:
+      excluded_model_contributions:
+      - idmix
+      - mag

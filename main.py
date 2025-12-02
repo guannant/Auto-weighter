@@ -1,6 +1,6 @@
 import json
 import numpy as np
-from utils.NSGA_related import get_pareto_front_indices, initialize_gaussian_pool, select_parent_indices, get_operator_menu, get_bounds_and_constraints, get_index_mapping_note
+from utils.NSGA_related import get_pareto_front_indices, initialize_gaussian_pool, select_parent_indices, get_bounds_and_constraints, get_index_mapping_note
 from utils.CALPHAD_related import batch_objective_eval
 from agents.chatbox import openai_chat_completion  
 from optimizer.network import build_ea_langgraph_merged
@@ -11,7 +11,7 @@ def run_optimization(
     pool_size: int = 20,
     max_generations: int = 50,
     seed: int = 0,
-    weights_path: str = "ESPEI_run_file/Pytorch_MLP_CV/weights.json",
+    weights_path: str = "examples/CALPHAD/Pytorch_MLP_CV/weights.json",
     lower_bound: float = 1e-2,
     upper_bound: float = 1000.0,
     init_std: float = 0.8,
@@ -68,8 +68,8 @@ def run_optimization(
     # Initialize population
     param_pool = initialize_gaussian_pool(
         rng=rng,
-        init_params=init_params,
-        pool_size=pool_size,
+        center_point=init_params,
+        n_samples=pool_size,
         std=init_std,
         bounds=bounds,
     )
@@ -82,8 +82,7 @@ def run_optimization(
     parent_pool = param_pool[selected_idx]
     parent_objectives = objectives[selected_idx]
 
-    # Operator menu & metadata
-    operator_menu = get_operator_menu()
+    # Operator metadata
     bounds_and_constraints = get_bounds_and_constraints(bounds)
     index_mapping_note = get_index_mapping_note(n_var)
 
@@ -103,7 +102,6 @@ def run_optimization(
         "parent_pool": parent_pool,
         "parent_objectives": parent_objectives,
         "llm": llm,
-        "operator_menu": operator_menu,
         "bounds_and_constraints": bounds_and_constraints,
         "index_mapping_note": index_mapping_note,
         "history": history,
